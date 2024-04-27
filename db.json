@@ -1,0 +1,28 @@
+{
+    "autos": [
+        {
+            "id": 1,
+            "marca": "Ferrari",
+            "modelo": 2012,
+            "color": "rojo"
+        },
+        {
+            "id": 3,
+            "marca": "Lamborgini",
+            "modelo": 1999,
+            "color": "azul"
+        },
+        {
+            "id": 4,
+            "marca": "Toyota",
+            "modelo": 2014,
+            "color": "negro"
+        },
+        {
+            "id": 5,
+            "marca": "Renault",
+            "modelo": 2023,
+            "color": "amarillo"
+        }
+    ]
+}
