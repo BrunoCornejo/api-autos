@@ -1,0 +1,25 @@
+{
+  "name": "api-rest-autos",
+  "version": "1.0.0",
+  "description": "Api para automoviles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoCornejo/api-autos.git"
+  },
+  "author": "BrunoCornejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoCornejo/api-autos/issues"
+  },
+  "homepage": "https://github.com/BrunoCornejo/api-autos#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
